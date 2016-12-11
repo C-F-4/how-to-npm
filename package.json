@@ -1,0 +1,26 @@
+{
+  "name": "@phoenix/how_to_npm_module",
+  "version": "1.0.0",
+  "description": "Practice Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "practice"
+  ],
+  "author": "phoenix",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C-F-4/how-to-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/C-F-4/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/C-F-4/how-to-npm#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {}
+}
