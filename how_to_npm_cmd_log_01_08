@@ -1,0 +1,97 @@
+  520  npm i -g how-to-npm
+  521  how-to-npm
+  522  npm update
+  523  how-to-npm verify
+  524  npm --v
+  525  npm install npm -g
+  526  how-to-npm verify
+  527  how-to-npm
+  528  pwd
+  529  cd Codes
+  530  mkdir how_to_npm
+  531  cd how_to_npm
+  532  npm init
+  533  how-to-npm verify
+  534  npm whoami
+  535  npm adduser
+  536  npm whoami
+  537  how-to-npm verify
+  538  how-to-npm
+  539  pwd
+  540  ls
+  541  gedit package.json
+  542  npm init --scope=phoenix
+  543  gedit package.json
+  544  how-to-npm verify
+  545  git init
+  546  how-to-npm verify extra credit
+  547  how-to-npm
+  548  how-to-npm verify extra credit
+  549  how-to-npm verify
+  550  how-to-npm
+  551  npm i @linclask/pkg --save 
+  552  npm i @linclark/pkg --save 
+  553  npm ls
+  554  how-to-npm verify OK
+  555  echo "" >> test.js
+  556  ls
+  557  cat test.js
+  558  echo "// npm test class" >> test.js
+  559  cat test.js
+  560  gedit package.json
+  561  how-to-npm verify
+  562  how-to-npm
+  563  node init
+  564  npm init
+  565  how-to-npm verify
+  566  gedit package.json
+  567  cat "" > README.md
+  568  cat README.md
+  569  echo "// README file" >> README.md
+  570  cat package.json
+  571  npm init
+  572  npm json
+  573  npm test
+  574  git status
+  575  cat .gitignore
+  576  nautilus .
+  577  ls
+  578  ls -a
+  579  echo "node_modules/" >> .gitignore
+  580  cat .gitignore
+  581  gedit .gitignore
+  582  git status
+  583  gedit .gitignore
+  584  git status
+  585  git add .
+  586  git status
+  587  how-to-npm
+  588  how-to-npm verify
+  589  git commit -m "Done til 07 Package Niceties"
+  590  git status
+  591  git remote --h
+  592  sudo apt-get autoremove unity-lens-shopping
+  593  sudo apt-get install GParted
+  594  sudo apt-get install gparted
+  595  ping google.com
+  596  ping www.google.com
+  597  atom
+  598  vscode
+  599  git apt-cache search sublime
+  600  apt-cache search sublime
+  601  sudo apt-cache search sublime
+  602  clear
+  603  git stash --h
+  604  git stash --help
+  605  subli
+  606  sublime
+  607  sublime-text
+  608  git status
+  609  how-to-npm
+  610  how-to-npm verify
+  611  history
+  612  history >> cat how-to-npm
+  613  history >> cat how-to-npm.txt
+  614  history || cat >> how-to-npm.txt
+  615  gedit how-to-npm.txt
+  616  history | cat >> how-to-npm.txt
